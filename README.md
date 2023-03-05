@@ -1,2 +1,2 @@
 # ffpp
-frontend functional programming practice 
+pragmatic functional programming for frontend programmer
